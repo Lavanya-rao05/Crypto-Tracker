@@ -1,4 +1,4 @@
-# Crypto Tracker
+# CryptoTracker
 
 ## Overview
 Crypto Tracker is a Python application that uses the Binance API to fetch cryptocurrency price data and predict future prices with a linear regression model.

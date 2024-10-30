@@ -1,0 +1,4 @@
+pandas
+binance
+scikit-learn
+matplotlib

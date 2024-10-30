@@ -1,4 +1,6 @@
 pandas
-binance
+numpy
 scikit-learn
+tensorflow
+binance
 matplotlib

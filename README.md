@@ -7,3 +7,4 @@ Crypto Tracker is a Python application that uses the Binance API to fetch crypto
 - Get historical price data for Bitcoin.
 - Predict future prices and visualize results.
 
+![Uploading image.png…]()
